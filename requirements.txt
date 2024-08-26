@@ -1,0 +1,13 @@
+langchain
+streamlit
+langchain-openai
+langchain-groq
+mysql-connector-python
+python-dotenv
+langchain-community
+langchain-core
+groq
+psycopg2
+pymongo
+google-generativeai
+
