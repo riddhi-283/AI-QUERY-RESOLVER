@@ -214,7 +214,7 @@ def work_with_mysql():
             # st.write(f"Generated Prompt: {prompt}")
 
             # Get SQL query from Gemini API
-            sql_query = get_mg_response(question, [prompt])
+            sql_query = get_m_response(question, [prompt])
             st.write(f"Generated SQL Query: {sql_query}")
 
             # Execute the SQL query
